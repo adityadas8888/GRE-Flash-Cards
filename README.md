@@ -2,7 +2,7 @@
 
 A local, interactive GRE flashcard web application powered by Python and Flask, featuring:
 - A 3D-flip animation on click
-- "Tinder-like" swipe interactions for marking words **correct** or **wrong**
+- Swipe interactions for marking words **correct** or **wrong**
 - Weighted distribution of words, so those missed more often appear more frequently
 - Local persistence of your progress in a JSON file
 
