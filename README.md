@@ -1,5 +1,7 @@
 # GRE Flashcards
 
+![flip](https://github.com/user-attachments/assets/d4065a9f-a57f-423f-bd31-3fa5189d2b2d)
+
 A local, interactive GRE flashcard web application powered by Python and Flask, featuring:
 - A 3D-flip animation on click
 - Swipe interactions for marking words **correct** or **wrong**
