@@ -1,0 +1,2415 @@
+[
+  {
+    "word": "Abate",
+    "definition": "To lessen in intensity or degree",
+    "synonyms": [
+      "subside",
+      "diminish"
+    ],
+    "antonyms": [
+      "intensify",
+      "increase"
+    ],
+    "type": "verb",
+    "example": "The storm abated, and the sun came out.",
+    "pronunciation": "/əˈbeɪt/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Abjure",
+    "definition": "To formally renounce or reject something",
+    "synonyms": [
+      "renounce",
+      "relinquish"
+    ],
+    "antonyms": [
+      "affirm",
+      "accept"
+    ],
+    "type": "verb",
+    "example": "The king abjured his claim to the throne.",
+    "pronunciation": "/əbˈdʒʊr/",
+    "correct": 0,
+    "wrong": 1
+  },
+  {
+    "word": "Abridge",
+    "definition": "To shorten",
+    "synonyms": [
+      "shorten",
+      "condense"
+    ],
+    "antonyms": [
+      "expand",
+      "lengthen"
+    ],
+    "type": "verb",
+    "example": "The publisher had to abridge the novel for the children's edition.",
+    "pronunciation": "/əˈbrɪdʒ/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Acumen",
+    "definition": "Sharply insightful; keen judgment",
+    "synonyms": [
+      "shrewdness",
+      "insight"
+    ],
+    "antonyms": [
+      "ignorance",
+      "ineptness"
+    ],
+    "type": "noun",
+    "example": "The detective’s sharp acumen helped crack the case.",
+    "pronunciation": "/əˈkjuːmən/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Alleviate",
+    "definition": "To relieve",
+    "synonyms": [
+      "ease",
+      "mitigate"
+    ],
+    "antonyms": [
+      "aggravate",
+      "exacerbate"
+    ],
+    "type": "verb",
+    "example": "Taking aspirin can alleviate a headache.",
+    "pronunciation": "/əˈliːviˌeɪt/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Amalgamate",
+    "definition": "To merge or combine into one; unite",
+    "synonyms": [
+      "merge",
+      "unite",
+      "combine"
+    ],
+    "antonyms": [
+      "separate",
+      "divide"
+    ],
+    "type": "verb",
+    "example": "The company will amalgamate its two marketing departments for better efficiency.",
+    "pronunciation": "/əˈmælɡəˌmeɪt/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Amicable",
+    "definition": "Friendly; peaceable",
+    "synonyms": [
+      "friendly",
+      "cordial"
+    ],
+    "antonyms": [
+      "hostile",
+      "unfriendly"
+    ],
+    "type": "adjective",
+    "example": "The neighbors reached an amicable agreement regarding the property line.",
+    "pronunciation": "/ˈæmɪkəbəl/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Apathy",
+    "definition": "Lack of interest or emotion",
+    "synonyms": [
+      "indifference",
+      "unconcern"
+    ],
+    "antonyms": [
+      "enthusiasm",
+      "interest"
+    ],
+    "type": "noun",
+    "example": "The student's apathy towards learning was evident in his grades.",
+    "pronunciation": "/ˈæpəθi/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Appal",
+    "definition": "Shock or horrify",
+    "synonyms": [
+      "horrify",
+      "dismay"
+    ],
+    "antonyms": [
+      "delight",
+      "reassure"
+    ],
+    "type": "verb",
+    "example": "The brutality of the war appalled the entire world.",
+    "pronunciation": "/əˈpɔːl/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Appease",
+    "definition": "To calm or pacify someone by giving them what they want",
+    "synonyms": [
+      "pacify",
+      "placate"
+    ],
+    "antonyms": [
+      "provoke",
+      "agitate"
+    ],
+    "type": "verb",
+    "example": "The king tried to appease the angry mob with promises of reform.",
+    "pronunciation": "/əˈpiːz/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Apprehensive",
+    "definition": "Feeling anxious or fearful; worried",
+    "synonyms": [
+      "anxious",
+      "uneasy"
+    ],
+    "antonyms": [
+      "confident",
+      "assured"
+    ],
+    "type": "adjective",
+    "example": "John was apprehensive about his upcoming presentation.",
+    "pronunciation": "/ˌæprɪˈhɛnsɪv/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Assuage",
+    "definition": "To provide relief; to soothe or relieve",
+    "synonyms": [
+      "soothe",
+      "relieve"
+    ],
+    "antonyms": [
+      "aggravate",
+      "intensify"
+    ],
+    "type": "verb",
+    "example": "The letter assuaged her fears.",
+    "pronunciation": "/əˈsweɪdʒ/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Audacious",
+    "definition": "Showing a willingness to take surprisingly bold risks; recklessly daring",
+    "synonyms": [
+      "bold",
+      "daring"
+    ],
+    "antonyms": [
+      "timid",
+      "cowardly"
+    ],
+    "type": "adjective",
+    "example": "Her audacious decision to skydive shocked her friends.",
+    "pronunciation": "/ɔːˈdeɪʃəs/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Auspicious",
+    "definition": "Conducive to success; favorable",
+    "synonyms": [
+      "favorable",
+      "propitious"
+    ],
+    "antonyms": [
+      "ominous",
+      "inauspicious"
+    ],
+    "type": "adjective",
+    "example": "They chose an auspicious date for the wedding, hoping for good fortune.",
+    "pronunciation": "/ɔːˈspɪʃəs/",
+    "correct": 1,
+    "wrong": 0
+  },
+  {
+    "word": "Banal",
+    "definition": "So lacking in originality as to be obvious and boring",
+    "synonyms": [
+      "trite",
+      "hackneyed"
+    ],
+    "antonyms": [
+      "original",
+      "fresh"
+    ],
+    "type": "adjective",
+    "example": "The movie's plot was banal and predictable.",
+    "pronunciation": "/bəˈnɑːl/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Belie",
+    "definition": "To give a false impression; to disguise or contradict",
+    "synonyms": [
+      "contradict",
+      "misrepresent"
+    ],
+    "antonyms": [
+      "reveal",
+      "prove"
+    ],
+    "type": "verb",
+    "example": "His calm manner belied the nervousness he felt.",
+    "pronunciation": "/bɪˈlaɪ/",
+    "correct": 1,
+    "wrong": 0
+  },
+  {
+    "word": "Belligerent",
+    "definition": "Hostile and aggressive",
+    "synonyms": [
+      "aggressive",
+      "combative"
+    ],
+    "antonyms": [
+      "peaceful",
+      "friendly"
+    ],
+    "type": "adjective",
+    "example": "The belligerent customer argued with the store manager.",
+    "pronunciation": "/bəˈlɪdʒərənt/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Benevolent",
+    "definition": "Kind-hearted",
+    "synonyms": [
+      "kind",
+      "charitable"
+    ],
+    "antonyms": [
+      "malevolent",
+      "cruel"
+    ],
+    "type": "adjective",
+    "example": "The benevolent woman spent her weekends volunteering at the shelter.",
+    "pronunciation": "/bəˈnɛvələnt/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Bolster",
+    "definition": "To support or strengthen",
+    "synonyms": [
+      "support",
+      "reinforce"
+    ],
+    "antonyms": [
+      "undermine",
+      "weaken"
+    ],
+    "type": "verb",
+    "example": "The new evidence helped bolster their case in court.",
+    "pronunciation": "/ˈboʊlstər/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Bombastic",
+    "definition": "Pompous; inflated language",
+    "synonyms": [
+      "pompous",
+      "pretentious"
+    ],
+    "antonyms": [
+      "humble",
+      "restrained"
+    ],
+    "type": "adjective",
+    "example": "The politician’s bombastic speeches failed to impress the voters.",
+    "pronunciation": "/bɒmˈbæstɪk/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Cacophony",
+    "definition": "Harsh, discordant mixture of sounds",
+    "synonyms": [
+      "discord",
+      "din"
+    ],
+    "antonyms": [
+      "harmony",
+      "silence"
+    ],
+    "type": "noun",
+    "example": "The city streets were filled with the cacophony of traffic.",
+    "pronunciation": "/kəˈkɒfəni/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Cadence",
+    "definition": "The rhythm or flow of sound",
+    "synonyms": [
+      "rhythm",
+      "tempo"
+    ],
+    "antonyms": [
+      "discordance",
+      "irregularity"
+    ],
+    "type": "noun",
+    "example": "The poet used cadence to create a musical effect in his verses.",
+    "pronunciation": "/ˈkeɪdəns/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Candour",
+    "definition": "Frankness; openness in speech",
+    "synonyms": [
+      "honesty",
+      "frankness"
+    ],
+    "antonyms": [
+      "deceit",
+      "dishonesty"
+    ],
+    "type": "noun",
+    "example": "He appreciated her candour during their conversation.",
+    "pronunciation": "/ˈkændər/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Capitulate",
+    "definition": "To surrender",
+    "synonyms": [
+      "surrender",
+      "yield"
+    ],
+    "antonyms": [
+      "resist",
+      "hold out"
+    ],
+    "type": "verb",
+    "example": "The army had no choice but to capitulate to the enemy forces.",
+    "pronunciation": "/kəˈpɪtʃəˌleɪt/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Capricious",
+    "definition": "Unpredictable; impulsive",
+    "synonyms": [
+      "whimsical",
+      "unpredictable"
+    ],
+    "antonyms": [
+      "steady",
+      "predictable"
+    ],
+    "type": "adjective",
+    "example": "Her capricious nature made it difficult to anticipate her actions.",
+    "pronunciation": "/kəˈprɪʃəs/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Caustic",
+    "definition": "Severely critical or sarcastic; harsh",
+    "synonyms": [
+      "biting",
+      "scathing",
+      "harsh"
+    ],
+    "antonyms": [
+      "mild",
+      "kind"
+    ],
+    "type": "adjective",
+    "example": "The comedian’s caustic remarks left the audience squirming.",
+    "pronunciation": "/ˈkɔːstɪk/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Cogent",
+    "definition": "Convincing; reasonable",
+    "synonyms": [
+      "convincing",
+      "compelling"
+    ],
+    "antonyms": [
+      "unconvincing",
+      "weak"
+    ],
+    "type": "adjective",
+    "example": "She presented a cogent argument in favor of her proposal.",
+    "pronunciation": "/ˈkoʊdʒənt/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Conspicuous",
+    "definition": "Easy to see or notice; prominent",
+    "synonyms": [
+      "noticeable",
+      "obvious"
+    ],
+    "antonyms": [
+      "inconspicuous",
+      "hidden"
+    ],
+    "type": "adjective",
+    "example": "Her bright red dress made her conspicuous in the crowd.",
+    "pronunciation": "/kənˈspɪkjuəs/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Conundrum",
+    "definition": "A difficult problem or question",
+    "synonyms": [
+      "puzzle",
+      "enigma"
+    ],
+    "antonyms": [
+      "solution"
+    ],
+    "type": "noun",
+    "example": "The conundrum of balancing work and family life is a common challenge.",
+    "pronunciation": "/kəˈnʌndrəm/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Debilitate",
+    "definition": "To weaken",
+    "synonyms": [
+      "weaken",
+      "enfeeble"
+    ],
+    "antonyms": [
+      "strengthen",
+      "fortify"
+    ],
+    "type": "verb",
+    "example": "The illness debilitated him, and he was unable to work.",
+    "pronunciation": "/dɪˈbɪlɪˌteɪt/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Deleterious",
+    "definition": "Harmful; damaging",
+    "synonyms": [
+      "harmful",
+      "damaging"
+    ],
+    "antonyms": [
+      "beneficial",
+      "advantageous"
+    ],
+    "type": "adjective",
+    "example": "Smoking has deleterious effects on one’s health.",
+    "pronunciation": "/ˌdɛləˈtɪəriəs/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Delineate",
+    "definition": "To describe or portray precisely",
+    "synonyms": [
+      "outline",
+      "describe"
+    ],
+    "antonyms": [
+      "obscure",
+      "confuse"
+    ],
+    "type": "verb",
+    "example": "The artist delineated the features of the landscape.",
+    "pronunciation": "/dɪˈlɪniˌeɪt/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Dilemma",
+    "definition": "A situation where a difficult choice must be made between two equally undesirable options",
+    "synonyms": [
+      "predicament",
+      "quandary"
+    ],
+    "antonyms": [
+      "solution",
+      "resolution"
+    ],
+    "type": "noun",
+    "example": "He faced a dilemma: accept the promotion and move away or stay in his current city and miss out on the opportunity.",
+    "pronunciation": "/dɪˈlɛmə/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Disdain",
+    "definition": "Contempt; scorn",
+    "synonyms": [
+      "scorn",
+      "contempt"
+    ],
+    "antonyms": [
+      "respect",
+      "admiration"
+    ],
+    "type": "noun",
+    "example": "She looked at him with disdain after his rude comment.",
+    "pronunciation": "/dɪsˈdeɪn/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Disingenuous",
+    "definition": "Insincere or misleading; lacking in candor",
+    "synonyms": [
+      "insincere",
+      "deceitful"
+    ],
+    "antonyms": [
+      "sincere",
+      "honest"
+    ],
+    "type": "adjective",
+    "example": "Her disingenuous apology only made things worse.",
+    "pronunciation": "/ˌdɪsɪnˈdʒɛnjuəs/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Disparate",
+    "definition": "Fundamentally different; unrelated",
+    "synonyms": [
+      "different",
+      "dissimilar"
+    ],
+    "antonyms": [
+      "similar",
+      "alike"
+    ],
+    "type": "adjective",
+    "example": "The two sisters had disparate interests and hobbies.",
+    "pronunciation": "/ˈdɪspərət/",
+    "correct": 1,
+    "wrong": 0
+  },
+  {
+    "word": "Dogmatic",
+    "definition": "Asserting opinions as if they were facts; rigidly opinionated",
+    "synonyms": [
+      "inflexible",
+      "opinionated"
+    ],
+    "antonyms": [
+      "open-minded",
+      "flexible"
+    ],
+    "type": "adjective",
+    "example": "His dogmatic attitude made it difficult to have a constructive discussion.",
+    "pronunciation": "/dɔːɡˈmætɪk/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Effusive",
+    "definition": "Warmly enthusiastic and expressive",
+    "synonyms": [
+      "gushy",
+      "unrestrained"
+    ],
+    "antonyms": [
+      "restrained",
+      "reserved"
+    ],
+    "type": "adjective",
+    "example": "She gave her best friend an effusive hug.",
+    "pronunciation": "/ɪˈfjuːsɪv/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Egregious",
+    "definition": "Outstandingly bad; shocking",
+    "synonyms": [
+      "flagrant",
+      "atrocious"
+    ],
+    "antonyms": [
+      "minor",
+      "trivial"
+    ],
+    "type": "adjective",
+    "example": "The team’s performance was egregious, resulting in a humiliating defeat.",
+    "pronunciation": "/ɪˈɡriːdʒəs/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Equivocal",
+    "definition": "Ambiguous; open to more than one interpretation",
+    "synonyms": [
+      "ambiguous",
+      "unclear"
+    ],
+    "antonyms": [
+      "clear",
+      "unambiguous"
+    ],
+    "type": "adjective",
+    "example": "The instructions were equivocal, leading to confusion.",
+    "pronunciation": "/ɪˈkwɪvəkəl/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Elicit",
+    "definition": "To draw out or evoke a response",
+    "synonyms": [
+      "evoke",
+      "extract"
+    ],
+    "antonyms": [
+      "suppress",
+      "hide"
+    ],
+    "type": "verb",
+    "example": "The teacher used open-ended questions to elicit thoughtful answers from her students.",
+    "pronunciation": "/ɪˈlɪsɪt/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Eloquent",
+    "definition": "Fluent or persuasive in speaking or writing",
+    "synonyms": [
+      "articulate",
+      "expressive"
+    ],
+    "antonyms": [
+      "inarticulate",
+      "tongue-tied"
+    ],
+    "type": "adjective",
+    "example": "The speaker delivered an eloquent speech that moved the audience to tears.",
+    "pronunciation": "/ˈɛləkwənt/",
+    "correct": 1,
+    "wrong": 0
+  },
+  {
+    "word": "Enervate",
+    "definition": "To weaken or sap the energy of",
+    "synonyms": [
+      "weaken",
+      "exhaust"
+    ],
+    "antonyms": [
+      "energize",
+      "invigorate"
+    ],
+    "type": "verb",
+    "example": "The long commute enervated her, leaving her too tired to cook dinner.",
+    "pronunciation": "/ˈɛnərˌveɪt/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Enigmatic",
+    "definition": "Mysterious; puzzling",
+    "synonyms": [
+      "mysterious",
+      "puzzling"
+    ],
+    "antonyms": [
+      "clear",
+      "straightforward"
+    ],
+    "type": "adjective",
+    "example": "The enigmatic smile on her face left everyone curious.",
+    "pronunciation": "/ˌɛnɪɡˈmætɪk/",
+    "correct": 1,
+    "wrong": 0
+  },
+  {
+    "word": "Ephemeral",
+    "definition": "Lasting for a very short time",
+    "synonyms": [
+      "transient",
+      "fleeting"
+    ],
+    "antonyms": [
+      "lasting",
+      "permanent"
+    ],
+    "type": "adjective",
+    "example": "The beauty of the cherry blossoms is ephemeral.",
+    "pronunciation": "/ɪˈfɛmərəl/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Erudite",
+    "definition": "Having or showing great knowledge; learned or scholarly",
+    "synonyms": [
+      "learned",
+      "scholarly"
+    ],
+    "antonyms": [
+      "ignorant",
+      "uneducated"
+    ],
+    "type": "adjective",
+    "example": "The professor’s erudite lecture impressed the students.",
+    "pronunciation": "/ˈɛruːˌdaɪt/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Exacerbate",
+    "definition": "To make something worse; intensify",
+    "synonyms": [
+      "worsen",
+      "aggravate"
+    ],
+    "antonyms": [
+      "alleviate",
+      "reduce"
+    ],
+    "type": "verb",
+    "example": "The argument only exacerbated the already tense situation.",
+    "pronunciation": "/ɪɡˈzæsərˌbeɪt/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Facetious",
+    "definition": "Treating serious issues with inappropriate humor",
+    "synonyms": [
+      "flippant",
+      "sarcastic"
+    ],
+    "antonyms": [
+      "serious",
+      "earnest"
+    ],
+    "type": "adjective",
+    "example": "His facetious remarks during the meeting were not appreciated.",
+    "pronunciation": "/fəˈsiːʃəs/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Fastidious",
+    "definition": "Very attentive to detail; meticulous",
+    "synonyms": [
+      "meticulous",
+      "fussy"
+    ],
+    "antonyms": [
+      "careless",
+      "sloppy"
+    ],
+    "type": "adjective",
+    "example": "She was fastidious about keeping her house clean.",
+    "pronunciation": "/fæˈstɪdiəs/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Fervent",
+    "definition": "Intensely passionate or earnest",
+    "synonyms": [
+      "passionate",
+      "ardent"
+    ],
+    "antonyms": [
+      "indifferent",
+      "apathetic"
+    ],
+    "type": "adjective",
+    "example": "He was a fervent supporter of human rights.",
+    "pronunciation": "/ˈfɜːrvənt/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Fortuitous",
+    "definition": "Happening by chance or luck",
+    "synonyms": [
+      "accidental",
+      "lucky"
+    ],
+    "antonyms": [
+      "intentional",
+      "planned",
+      "unlucky"
+    ],
+    "type": "adjective",
+    "example": "It was fortuitous that she found the lost keys.",
+    "pronunciation": "/fɔːrˈtuːɪtəs/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Furtive",
+    "definition": "Secretive; sly",
+    "synonyms": [
+      "sneaky",
+      "secretive"
+    ],
+    "antonyms": [
+      "open",
+      "overt"
+    ],
+    "type": "adjective",
+    "example": "The thief cast a furtive glance around before stealing the jewels.",
+    "pronunciation": "/ˈfɜːrtɪv/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Garrulous",
+    "definition": "Excessively talkative",
+    "synonyms": [
+      "talkative",
+      "loquacious"
+    ],
+    "antonyms": [
+      "taciturn",
+      "reticent"
+    ],
+    "type": "adjective",
+    "example": "The garrulous old man told stories for hours.",
+    "pronunciation": "/ˈɡærələs/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Gregarious",
+    "definition": "Sociable",
+    "synonyms": [
+      "sociable",
+      "outgoing"
+    ],
+    "antonyms": [
+      "introverted",
+      "antisocial"
+    ],
+    "type": "adjective",
+    "example": "Mark was gregarious and made friends easily at the party.",
+    "pronunciation": "/ɡrɪˈɡɛəriəs/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Hapless",
+    "definition": "Unfortunate; unlucky",
+    "synonyms": [
+      "unlucky",
+      "unfortunate"
+    ],
+    "antonyms": [
+      "fortunate",
+      "lucky"
+    ],
+    "type": "adjective",
+    "example": "The hapless traveler lost his wallet on the trip.",
+    "pronunciation": "/ˈhæpləs/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Haughty",
+    "definition": "Arrogant",
+    "synonyms": [
+      "arrogant",
+      "proud"
+    ],
+    "antonyms": [
+      "humble",
+      "modest"
+    ],
+    "type": "adjective",
+    "example": "The haughty aristocrat looked down on those she considered beneath her.",
+    "pronunciation": "/ˈhɔːti/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Histrionic",
+    "definition": "Overly dramatic; theatrical",
+    "synonyms": [
+      "dramatic",
+      "theatrical"
+    ],
+    "antonyms": [
+      "undramatic",
+      "restrained"
+    ],
+    "type": "adjective",
+    "example": "Her histrionic reaction to the news startled everyone.",
+    "pronunciation": "/ˌhɪstriˈɒnɪk/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Hubris",
+    "definition": "Excessive pride or self-confidence",
+    "synonyms": [
+      "arrogance",
+      "pride"
+    ],
+    "antonyms": [
+      "humility",
+      "modesty"
+    ],
+    "type": "noun",
+    "example": "His hubris led to his downfall in the end.",
+    "pronunciation": "/ˈhjuːbrɪs/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Iconoclast",
+    "definition": "A person who attacks or criticizes cherished beliefs or institutions",
+    "synonyms": [
+      "rebel",
+      "nonconformist"
+    ],
+    "antonyms": [
+      "conformist",
+      "traditionalist"
+    ],
+    "type": "noun",
+    "example": "The artist was considered an iconoclast for rejecting traditional painting styles.",
+    "pronunciation": "/aɪˈkɒnəklæst/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Imbibe",
+    "definition": "To drink or absorb",
+    "synonyms": [
+      "drink",
+      "absorb"
+    ],
+    "antonyms": [
+      "abstain"
+    ],
+    "type": "verb",
+    "example": "He imbibed too much wine at the party and ended up with a headache the next day.",
+    "pronunciation": "/ɪmˈbaɪb/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Impasse",
+    "definition": "A situation in which progress is impossible; a deadlock",
+    "synonyms": [
+      "stalemate",
+      "deadlock"
+    ],
+    "antonyms": [
+      "breakthrough",
+      "agreement"
+    ],
+    "type": "noun",
+    "example": "The negotiations reached an impasse.",
+    "pronunciation": "/ˈɪmpæs/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Impassive",
+    "definition": "Showing no emotion or feeling; indifferent",
+    "synonyms": [
+      "unemotional",
+      "stolid"
+    ],
+    "antonyms": [
+      "emotional",
+      "expressive"
+    ],
+    "type": "adjective",
+    "example": "The actor remained impassive despite the chaos unfolding around him.",
+    "pronunciation": "/ɪmˈpæsɪv/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Impetuous",
+    "definition": "Acting without thinking; impulsive",
+    "synonyms": [
+      "impulsive",
+      "rash"
+    ],
+    "antonyms": [
+      "cautious",
+      "deliberate"
+    ],
+    "type": "adjective",
+    "example": "His impetuous decision led to regret later on.",
+    "pronunciation": "/ɪmˈpɛtʃuəs/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Imprudent",
+    "definition": "Lacking good judgment; unwise",
+    "synonyms": [
+      "unwise",
+      "reckless"
+    ],
+    "antonyms": [
+      "prudent",
+      "careful"
+    ],
+    "type": "adjective",
+    "example": "It was imprudent of her to go swimming alone in the dark.",
+    "pronunciation": "/ɪmˈpruːdənt/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Incessant",
+    "definition": "Continuing without interruption",
+    "synonyms": [
+      "ceaseless",
+      "continuous"
+    ],
+    "antonyms": [
+      "intermittent",
+      "occasional"
+    ],
+    "type": "adjective",
+    "example": "The incessant noise from the construction site was annoying.",
+    "pronunciation": "/ɪnˈsɛsənt/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Incandescent",
+    "definition": "Emitting light as a result of being heated; glowing",
+    "synonyms": [
+      "glowing",
+      "luminous"
+    ],
+    "antonyms": [
+      "dim",
+      "dull"
+    ],
+    "type": "adjective",
+    "example": "The incandescent bulb illuminated the room.",
+    "pronunciation": "/ˌɪnkænˈdɛsənt/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Ineffable",
+    "definition": "Too great or extreme to be expressed in words",
+    "synonyms": [
+      "indescribable",
+      "unspeakable"
+    ],
+    "antonyms": [
+      "expressible",
+      "definable"
+    ],
+    "type": "adjective",
+    "example": "The beauty of the sunset was ineffable.",
+    "pronunciation": "/ˌɪnˈɛfəbəl/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Inimical",
+    "definition": "Tending to obstruct or harm; unfriendly or hostile",
+    "synonyms": [
+      "hostile",
+      "harmful"
+    ],
+    "antonyms": [
+      "friendly",
+      "beneficial"
+    ],
+    "type": "adjective",
+    "example": "Lack of sleep is inimical to one's health.",
+    "pronunciation": "/ɪˈnɪmɪkəl/",
+    "correct": 0,
+    "wrong": 1
+  },
+  {
+    "word": "Innocuous",
+    "definition": "Harmless; not likely to irritate or offend",
+    "synonyms": [
+      "harmless",
+      "inoffensive"
+    ],
+    "antonyms": [
+      "harmful",
+      "damaging"
+    ],
+    "type": "adjective",
+    "example": "Though the joke was offensive to some, he believed it was innocuous.",
+    "pronunciation": "/ɪˈnɒkjuəs/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Insidious",
+    "definition": "Proceeding in a gradual, subtle way (with harmful effects)",
+    "synonyms": [
+      "treacherous",
+      "stealthy"
+    ],
+    "antonyms": [
+      "harmless",
+      "fair"
+    ],
+    "type": "adjective",
+    "example": "The insidious disease went undetected until it was too late.",
+    "pronunciation": "/ɪnˈsɪdiəs/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Insipid",
+    "definition": "Lacking flavor, vigor, or interest; bland or dull",
+    "synonyms": [
+      "bland",
+      "dull"
+    ],
+    "antonyms": [
+      "flavorful",
+      "exciting"
+    ],
+    "type": "adjective",
+    "example": "The soup was insipid and needed more spices.",
+    "pronunciation": "/ɪnˈsɪpɪd/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Interminable",
+    "definition": "Seemingly endless; very long and tiring",
+    "synonyms": [
+      "endless",
+      "unceasing"
+    ],
+    "antonyms": [
+      "brief",
+      "short-lived"
+    ],
+    "type": "adjective",
+    "example": "The meeting seemed interminable, dragging on for hours.",
+    "pronunciation": "/ɪnˈtɜːrmənəbəl/",
+    "correct": 0,
+    "wrong": 1
+  },
+  {
+    "word": "Intransigent",
+    "definition": "Unwilling to compromise or change one’s mind; stubborn",
+    "synonyms": [
+      "unyielding",
+      "stubborn"
+    ],
+    "antonyms": [
+      "yielding",
+      "compromising"
+    ],
+    "type": "adjective",
+    "example": "The intransigent leader refused to listen to any alternative solutions.",
+    "pronunciation": "/ɪnˈtrænsɪdʒənt/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Juxtapose",
+    "definition": "To place side by side for comparison",
+    "synonyms": [
+      "place side by side",
+      "contrast"
+    ],
+    "antonyms": [
+      "separate",
+      "isolate"
+    ],
+    "type": "verb",
+    "example": "The artist juxtaposed light and dark in her paintings.",
+    "pronunciation": "/ˈdʒʌkstəˌpoʊz/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Kindle",
+    "definition": "To ignite (also: to arouse or inspire)",
+    "synonyms": [
+      "ignite",
+      "arouse"
+    ],
+    "antonyms": [
+      "extinguish",
+      "quench"
+    ],
+    "type": "verb",
+    "example": "The teacher hoped to kindle an interest in science among her students.",
+    "pronunciation": "/ˈkɪndl/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Knell",
+    "definition": "The sound of a bell, especially when rung solemnly for a death or funeral",
+    "synonyms": [
+      "toll",
+      "death bell"
+    ],
+    "antonyms": [
+      "celebration"
+    ],
+    "type": "noun",
+    "example": "The knell of the church bell signaled the end of the service.",
+    "pronunciation": "/nɛl/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Laconic",
+    "definition": "Using few words; concise",
+    "synonyms": [
+      "terse",
+      "brief"
+    ],
+    "antonyms": [
+      "verbose",
+      "loquacious"
+    ],
+    "type": "adjective",
+    "example": "The detective gave a laconic response to the question.",
+    "pronunciation": "/ləˈkɒnɪk/",
+    "correct": 1,
+    "wrong": 0
+  },
+  {
+    "word": "Lament",
+    "definition": "To mourn; express sorrow or regret",
+    "synonyms": [
+      "mourn",
+      "grieve"
+    ],
+    "antonyms": [
+      "celebrate",
+      "rejoice"
+    ],
+    "type": "verb",
+    "example": "The villagers lamented the loss of their crops to the drought.",
+    "pronunciation": "/ləˈmɛnt/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Languid",
+    "definition": "Lacking energy; slow and relaxed",
+    "synonyms": [
+      "listless",
+      "sluggish"
+    ],
+    "antonyms": [
+      "energetic",
+      "vigorous"
+    ],
+    "type": "adjective",
+    "example": "The hot weather made him feel languid and sleepy.",
+    "pronunciation": "/ˈlæŋɡwɪd/",
+    "correct": 1,
+    "wrong": 0
+  },
+  {
+    "word": "Languish",
+    "definition": "To become weak or feeble; to lose strength",
+    "synonyms": [
+      "weaken",
+      "deteriorate"
+    ],
+    "antonyms": [
+      "thrive",
+      "flourish"
+    ],
+    "type": "verb",
+    "example": "The plants began to languish during the drought.",
+    "pronunciation": "/ˈlæŋɡwɪʃ/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Lethargic",
+    "definition": "Sluggish; lacking energy",
+    "synonyms": [
+      "sluggish",
+      "apathetic"
+    ],
+    "antonyms": [
+      "energetic",
+      "active"
+    ],
+    "type": "adjective",
+    "example": "After a heavy meal, he felt lethargic and sleepy.",
+    "pronunciation": "/ləˈθɑːrdʒɪk/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Magnanimous",
+    "definition": "Very generous or forgiving, especially toward a rival or someone less powerful",
+    "synonyms": [
+      "generous",
+      "noble"
+    ],
+    "antonyms": [
+      "petty",
+      "vindictive"
+    ],
+    "type": "adjective",
+    "example": "He was magnanimous in victory, praising his opponent's effort.",
+    "pronunciation": "/ˌmæɡˈnænɪməs/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Malaise",
+    "definition": "A general feeling of discomfort or unease",
+    "synonyms": [
+      "unease",
+      "discomfort"
+    ],
+    "antonyms": [
+      "comfort",
+      "well-being"
+    ],
+    "type": "noun",
+    "example": "A sense of malaise hung over the city after the natural disaster.",
+    "pronunciation": "/mæˈleɪz/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Meticulous",
+    "definition": "Paying great attention to detail; careful and precise",
+    "synonyms": [
+      "careful",
+      "thorough"
+    ],
+    "antonyms": [
+      "careless",
+      "sloppy"
+    ],
+    "type": "adjective",
+    "example": "The scientist was meticulous in her lab work, ensuring accurate results.",
+    "pronunciation": "/məˈtɪkjʊləs/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Misanthrope",
+    "definition": "A person who dislikes humankind and avoids human society",
+    "synonyms": [
+      "people-hater",
+      "cynic"
+    ],
+    "antonyms": [
+      "philanthropist",
+      "humanitarian"
+    ],
+    "type": "noun",
+    "example": "He was a misanthrope who retreated to a cabin in the woods to avoid people.",
+    "pronunciation": "/ˈmɪsənˌθroʊp/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Nebulous",
+    "definition": "Unclear; vague",
+    "synonyms": [
+      "vague",
+      "unclear"
+    ],
+    "antonyms": [
+      "clear",
+      "distinct"
+    ],
+    "type": "adjective",
+    "example": "The instructions were nebulous, leaving us confused.",
+    "pronunciation": "/ˈnɛbjʊləs/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Nonchalant",
+    "definition": "Appearing casually unconcerned or indifferent",
+    "synonyms": [
+      "indifferent",
+      "casual"
+    ],
+    "antonyms": [
+      "anxious",
+      "concerned"
+    ],
+    "type": "adjective",
+    "example": "He acted nonchalant about the news, but deep down, he was worried.",
+    "pronunciation": "/ˌnɒnʃəˈlɒnt/",
+    "correct": 1,
+    "wrong": 0
+  },
+  {
+    "word": "Obdurate",
+    "definition": "Stubbornly refusing to change one's opinion or course of action",
+    "synonyms": [
+      "stubborn",
+      "inflexible"
+    ],
+    "antonyms": [
+      "yielding",
+      "flexible"
+    ],
+    "type": "adjective",
+    "example": "Despite the evidence, he remained obdurate in his stance.",
+    "pronunciation": "/ˈɑːbdjʊrɪt/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Obfuscate",
+    "definition": "To make something unclear or difficult to understand",
+    "synonyms": [
+      "confuse",
+      "obscure"
+    ],
+    "antonyms": [
+      "clarify",
+      "elucidate"
+    ],
+    "type": "verb",
+    "example": "The politician’s answer obfuscated the real issue rather than addressing it directly.",
+    "pronunciation": "/ˈɒbfʌsˌkeɪt/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Oblivious",
+    "definition": "Unaware",
+    "synonyms": [
+      "unaware",
+      "ignorant"
+    ],
+    "antonyms": [
+      "aware",
+      "conscious"
+    ],
+    "type": "adjective",
+    "example": "She was so deep in thought that she was oblivious to her surroundings.",
+    "pronunciation": "/əˈblɪviəs/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Obsequious",
+    "definition": "Obedient or attentive to an excessive or servile degree",
+    "synonyms": [
+      "fawning",
+      "subservient",
+      "servile"
+    ],
+    "antonyms": [
+      "assertive",
+      "domineering"
+    ],
+    "type": "adjective",
+    "example": "The obsequious assistant always agreed with his boss.",
+    "pronunciation": "/əbˈsiːkwiəs/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Opaque",
+    "definition": "Not transparent; not allowing light to pass through",
+    "synonyms": [
+      "nontransparent",
+      "cloudy"
+    ],
+    "antonyms": [
+      "transparent",
+      "clear"
+    ],
+    "type": "adjective",
+    "example": "The windows were opaque, preventing anyone from seeing inside.",
+    "pronunciation": "/oʊˈpeɪk/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Ostensible",
+    "definition": "Apparent or seeming, but not necessarily true",
+    "synonyms": [
+      "apparent",
+      "supposed"
+    ],
+    "antonyms": [
+      "genuine",
+      "real"
+    ],
+    "type": "adjective",
+    "example": "His ostensible reason for being late was car trouble, but it was probably something else.",
+    "pronunciation": "/ɒˈstɛnsɪbəl/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Ostentatious",
+    "definition": "Showy; intended to impress others",
+    "synonyms": [
+      "showy",
+      "flashy"
+    ],
+    "antonyms": [
+      "modest",
+      "understated"
+    ],
+    "type": "adjective",
+    "example": "Her ostentatious display of wealth made others uncomfortable.",
+    "pronunciation": "/ˌɒstɛnˈteɪʃəs/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Paradigm",
+    "definition": "A typical example or pattern",
+    "synonyms": [
+      "model",
+      "pattern"
+    ],
+    "antonyms": [
+      "anomaly",
+      "exception"
+    ],
+    "type": "noun",
+    "example": "The discovery was a paradigm shift in the field of medicine.",
+    "pronunciation": "/ˈpærədaɪm/",
+    "correct": 1,
+    "wrong": 0
+  },
+  {
+    "word": "Pedantic",
+    "definition": "Overly concerned with minor details and rules; fussy",
+    "synonyms": [
+      "overscrupulous",
+      "precise"
+    ],
+    "antonyms": [
+      "imprecise",
+      "informal"
+    ],
+    "type": "adjective",
+    "example": "The professor’s pedantic lectures often bored his students.",
+    "pronunciation": "/pɪˈdæntɪk/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Pernicious",
+    "definition": "Harmful",
+    "synonyms": [
+      "harmful",
+      "destructive"
+    ],
+    "antonyms": [
+      "harmless",
+      "beneficial"
+    ],
+    "type": "adjective",
+    "example": "The pernicious effects of smoking are well-documented.",
+    "pronunciation": "/pərˈnɪʃəs/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Placate",
+    "definition": "To make (someone) less angry or hostile; to calm",
+    "synonyms": [
+      "pacify",
+      "appease"
+    ],
+    "antonyms": [
+      "provoke",
+      "enrage"
+    ],
+    "type": "verb",
+    "example": "She tried to placate her friend with kind words after their argument.",
+    "pronunciation": "/ˈpleɪkeɪt/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Plaudible",
+    "definition": "Believable; credible",
+    "synonyms": [
+      "credible",
+      "believable"
+    ],
+    "antonyms": [
+      "implausible",
+      "unlikely"
+    ],
+    "type": "adjective",
+    "example": "His explanation seemed plausible, given the circumstances.",
+    "pronunciation": "/ˈplɔːzəbəl/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Portentous",
+    "definition": "Suggesting the occurrence of something important or ominous",
+    "synonyms": [
+      "ominous",
+      "fateful"
+    ],
+    "antonyms": [
+      "insignificant",
+      "trivial"
+    ],
+    "type": "adjective",
+    "example": "The dark clouds were a portentous sign of an approaching storm.",
+    "pronunciation": "/pɔːrˈtɛntəs/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Precipitate",
+    "definition": "Happening suddenly or quickly (also: to cause to happen)",
+    "synonyms": [
+      "hasty",
+      "rash"
+    ],
+    "antonyms": [
+      "deliberate",
+      "careful"
+    ],
+    "type": "adjective",
+    "example": "The king's precipitate decision to declare war shocked his advisors.",
+    "pronunciation": "/prɪˈsɪpɪtət/",
+    "correct": 1,
+    "wrong": 0
+  },
+  {
+    "word": "Precipitous",
+    "definition": "Sudden and steep; abrupt",
+    "synonyms": [
+      "steep",
+      "abrupt"
+    ],
+    "antonyms": [
+      "gradual",
+      "gentle"
+    ],
+    "type": "adjective",
+    "example": "The stock market took a precipitous drop after the bad news.",
+    "pronunciation": "/prɪˈsɪpɪtəs/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Prudent",
+    "definition": "Acting with or showing care and thought for the future; wise",
+    "synonyms": [
+      "wise",
+      "cautious"
+    ],
+    "antonyms": [
+      "imprudent",
+      "reckless"
+    ],
+    "type": "adjective",
+    "example": "It's prudent to save money for emergencies.",
+    "pronunciation": "/ˈpruːdənt/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Prosaic",
+    "definition": "Dull, lacking in creativity or excitement; commonplace",
+    "synonyms": [
+      "ordinary",
+      "mundane"
+    ],
+    "antonyms": [
+      "imaginative",
+      "interesting"
+    ],
+    "type": "adjective",
+    "example": "His writing was prosaic, lacking any creative spark.",
+    "pronunciation": "/proʊˈzeɪɪk/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Querulous",
+    "definition": "Complaining",
+    "synonyms": [
+      "complaining",
+      "petulant"
+    ],
+    "antonyms": [
+      "agreeable",
+      "cheerful"
+    ],
+    "type": "adjective",
+    "example": "His querulous nature made him difficult to work with.",
+    "pronunciation": "/ˈkwɛrələs/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Quell",
+    "definition": "To suppress; put an end to",
+    "synonyms": [
+      "suppress",
+      "subdue"
+    ],
+    "antonyms": [
+      "incite",
+      "provoke"
+    ],
+    "type": "verb",
+    "example": "The police were called to quell the riot.",
+    "pronunciation": "/kwɛl/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Rebuke",
+    "definition": "To criticize or express disapproval",
+    "synonyms": [
+      "scold",
+      "reprimand"
+    ],
+    "antonyms": [
+      "praise",
+      "commend"
+    ],
+    "type": "verb",
+    "example": "The teacher gently rebuked the student for talking in class.",
+    "pronunciation": "/rɪˈbjuːk/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Recondite",
+    "definition": "Difficult to understand; obscure",
+    "synonyms": [
+      "obscure",
+      "esoteric"
+    ],
+    "antonyms": [
+      "simple",
+      "straightforward"
+    ],
+    "type": "adjective",
+    "example": "The book was filled with recondite philosophical concepts.",
+    "pronunciation": "/ˈrɛkənˌdaɪt/",
+    "correct": 0,
+    "wrong": 1
+  },
+  {
+    "word": "Reprehensible",
+    "definition": "Deserving criticism or condemnation",
+    "synonyms": [
+      "blameworthy",
+      "disgraceful"
+    ],
+    "antonyms": [
+      "praiseworthy",
+      "commendable"
+    ],
+    "type": "adjective",
+    "example": "His actions were deemed reprehensible by society.",
+    "pronunciation": "/ˌrɛprɪˈhɛnsəbəl/",
+    "correct": 1,
+    "wrong": 0
+  },
+  {
+    "word": "Resilient",
+    "definition": "Able to recover quickly from difficulties",
+    "synonyms": [
+      "hardy",
+      "flexible"
+    ],
+    "antonyms": [
+      "fragile",
+      "vulnerable"
+    ],
+    "type": "adjective",
+    "example": "Despite facing many setbacks, she remained resilient and optimistic.",
+    "pronunciation": "/rɪˈzɪliənt/",
+    "correct": 1,
+    "wrong": 0
+  },
+  {
+    "word": "Reticent",
+    "definition": "Reserved; reluctant to speak",
+    "synonyms": [
+      "reserved",
+      "silent"
+    ],
+    "antonyms": [
+      "talkative",
+      "expansive"
+    ],
+    "type": "adjective",
+    "example": "She was reticent about discussing her personal life.",
+    "pronunciation": "/ˈrɛtɪsənt/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Sagacious",
+    "definition": "Wise; showing good judgment",
+    "synonyms": [
+      "wise",
+      "astute"
+    ],
+    "antonyms": [
+      "foolish",
+      "unwise"
+    ],
+    "type": "adjective",
+    "example": "The sagacious old man gave valuable advice to the young prince.",
+    "pronunciation": "/səˈɡeɪʃəs/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Salient",
+    "definition": "Most noticeable or important",
+    "synonyms": [
+      "notable",
+      "prominent"
+    ],
+    "antonyms": [
+      "minor",
+      "unimportant"
+    ],
+    "type": "adjective",
+    "example": "The salient features of the proposal were highlighted.",
+    "pronunciation": "/ˈseɪliənt/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Sanguine",
+    "definition": "Optimistic or positive, especially in a bad or difficult situation",
+    "synonyms": [
+      "optimistic",
+      "hopeful"
+    ],
+    "antonyms": [
+      "pessimistic",
+      "gloomy"
+    ],
+    "type": "adjective",
+    "example": "Despite the hardships, she remained sanguine about the future.",
+    "pronunciation": "/ˈsæŋɡwɪn/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Sedulous",
+    "definition": "Showing great care and persistent effort",
+    "synonyms": [
+      "diligent",
+      "assiduous"
+    ],
+    "antonyms": [
+      "lazy",
+      "negligent"
+    ],
+    "type": "adjective",
+    "example": "He was a sedulous student who always went above and beyond.",
+    "pronunciation": "/ˈsɛdjʊləs/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Solicitous",
+    "definition": "Showing care and concern for others; attentive",
+    "synonyms": [
+      "concerned",
+      "attentive"
+    ],
+    "antonyms": [
+      "indifferent",
+      "apathetic"
+    ],
+    "type": "adjective",
+    "example": "The nurse was solicitous of the patient’s needs.",
+    "pronunciation": "/səˈlɪsɪtəs/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Soliloquy",
+    "definition": "A speech delivered by a character alone on stage",
+    "synonyms": [
+      "monologue"
+    ],
+    "antonyms": [
+      "dialogue"
+    ],
+    "type": "noun",
+    "example": "The actor delivered a powerful soliloquy that revealed his character's inner turmoil.",
+    "pronunciation": "/səˈlɪləkwi/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Specious",
+    "definition": "Superficially plausible, but actually wrong; misleadingly attractive",
+    "synonyms": [
+      "deceptive",
+      "misleading"
+    ],
+    "antonyms": [
+      "valid",
+      "genuine"
+    ],
+    "type": "adjective",
+    "example": "The argument sounded good, but it was specious.",
+    "pronunciation": "/ˈspiːʃəs/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Spurious",
+    "definition": "Not being what it purports to be; false or fake",
+    "synonyms": [
+      "false",
+      "counterfeit"
+    ],
+    "antonyms": [
+      "genuine",
+      "authentic"
+    ],
+    "type": "adjective",
+    "example": "The scientist quickly debunked the spurious claims in the article.",
+    "pronunciation": "/ˈspjʊəriəs/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Stoic",
+    "definition": "Not showing feeling or emotion; unemotional",
+    "synonyms": [
+      "unemotional",
+      "indifferent"
+    ],
+    "antonyms": [
+      "emotional",
+      "expressive"
+    ],
+    "type": "adjective",
+    "example": "He remained stoic even when faced with great adversity.",
+    "pronunciation": "/ˈstoʊɪk/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Sumptuous",
+    "definition": "Rich, splendid, and luxurious",
+    "synonyms": [
+      "luxurious",
+      "lavish"
+    ],
+    "antonyms": [
+      "plain",
+      "simple"
+    ],
+    "type": "adjective",
+    "example": "The king lived a sumptuous life in his palace.",
+    "pronunciation": "/ˈsʌmptʃuəs/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Supercilious",
+    "definition": "Behaving as if one is superior to others; arrogant",
+    "synonyms": [
+      "arrogant",
+      "condescending"
+    ],
+    "antonyms": [
+      "humble",
+      "modest"
+    ],
+    "type": "adjective",
+    "example": "The professor’s supercilious attitude alienated his students.",
+    "pronunciation": "/ˌsuːpərˈsɪliəs/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Superfluous",
+    "definition": "Unnecessary; more than enough",
+    "synonyms": [
+      "excess",
+      "unnecessary"
+    ],
+    "antonyms": [
+      "necessary",
+      "essential"
+    ],
+    "type": "adjective",
+    "example": "The extra decorations were superfluous and cluttered the room.",
+    "pronunciation": "/suːˈpɜːrfluəs/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Surreptitious",
+    "definition": "Secretive; stealthy",
+    "synonyms": [
+      "secretive",
+      "stealthy"
+    ],
+    "antonyms": [
+      "overt",
+      "open"
+    ],
+    "type": "adjective",
+    "example": "She made a surreptitious exit from the party.",
+    "pronunciation": "/ˌsɜːrəpˈtɪʃəs/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Taciturn",
+    "definition": "Reserved; uncommunicative",
+    "synonyms": [
+      "reserved",
+      "silent"
+    ],
+    "antonyms": [
+      "talkative",
+      "garrulous"
+    ],
+    "type": "adjective",
+    "example": "The taciturn man preferred listening to speaking.",
+    "pronunciation": "/ˈtæsɪtɜːrn/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Tenacious",
+    "definition": "Persistent",
+    "synonyms": [
+      "persistent",
+      "stubborn"
+    ],
+    "antonyms": [
+      "irresolute",
+      "weak"
+    ],
+    "type": "adjective",
+    "example": "She was tenacious in her pursuit of a career in medicine.",
+    "pronunciation": "/tɪˈneɪʃəs/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Tenuous",
+    "definition": "Weak or unreliable; flimsy",
+    "synonyms": [
+      "weak",
+      "flimsy"
+    ],
+    "antonyms": [
+      "strong",
+      "substantial"
+    ],
+    "type": "adjective",
+    "example": "The evidence supporting their claim was very tenuous.",
+    "pronunciation": "/ˈtɛnjuəs/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Transient",
+    "definition": "Lasting for only a short time",
+    "synonyms": [
+      "temporary",
+      "brief"
+    ],
+    "antonyms": [
+      "permanent",
+      "lasting"
+    ],
+    "type": "adjective",
+    "example": "The transient feeling of happiness soon faded away.",
+    "pronunciation": "/ˈtrænziənt/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Ubiquitous",
+    "definition": "Being everywhere at the same time",
+    "synonyms": [
+      "omnipresent",
+      "pervasive"
+    ],
+    "antonyms": [
+      "rare",
+      "scarce"
+    ],
+    "type": "adjective",
+    "example": "In today’s world, smartphones are ubiquitous.",
+    "pronunciation": "/juːˈbɪkwɪtəs/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Unanimous",
+    "definition": "In complete agreement",
+    "synonyms": [
+      "united",
+      "concordant"
+    ],
+    "antonyms": [
+      "divided",
+      "split"
+    ],
+    "type": "adjective",
+    "example": "The committee reached a unanimous decision.",
+    "pronunciation": "/juːˈnænɪməs/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Vacillate",
+    "definition": "To waver between different opinions or actions",
+    "synonyms": [
+      "waver",
+      "hesitate"
+    ],
+    "antonyms": [
+      "decide",
+      "persist"
+    ],
+    "type": "verb",
+    "example": "He vacillated between accepting the job offer and staying in his current position.",
+    "pronunciation": "/ˈvæsəˌleɪt/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Vacuous",
+    "definition": "Having or showing a lack of thought or intelligence; mindless",
+    "synonyms": [
+      "empty-headed",
+      "silly"
+    ],
+    "antonyms": [
+      "intelligent",
+      "meaningful"
+    ],
+    "type": "adjective",
+    "example": "The interviewer's vacuous questions frustrated the scientist.",
+    "pronunciation": "/ˈvækjuəs/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Vehement",
+    "definition": "Showing strong feeling; passionate",
+    "synonyms": [
+      "passionate",
+      "forceful"
+    ],
+    "antonyms": [
+      "indifferent",
+      "apathetic"
+    ],
+    "type": "adjective",
+    "example": "He was vehement in his opposition to the proposal.",
+    "pronunciation": "/ˈviːəmənt/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Venerable",
+    "definition": "Worthy of respect due to age, wisdom, or character",
+    "synonyms": [
+      "respected",
+      "esteemed"
+    ],
+    "antonyms": [
+      "dishonorable",
+      "disreputable"
+    ],
+    "type": "adjective",
+    "example": "The venerable professor had taught at the university for over 50 years.",
+    "pronunciation": "/ˈvɛnərəbəl/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Wane",
+    "definition": "To decrease gradually in size or intensity",
+    "synonyms": [
+      "diminish",
+      "dwindle"
+    ],
+    "antonyms": [
+      "wax",
+      "grow"
+    ],
+    "type": "verb",
+    "example": "The moon’s brightness began to wane as it entered its last phase.",
+    "pronunciation": "/weɪn/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Wary",
+    "definition": "Cautious",
+    "synonyms": [
+      "cautious",
+      "watchful"
+    ],
+    "antonyms": [
+      "trusting",
+      "careless"
+    ],
+    "type": "adjective",
+    "example": "She was wary of strangers offering her help.",
+    "pronunciation": "/ˈwɛəri/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Wistful",
+    "definition": "Yearning; longing with sadness",
+    "synonyms": [
+      "nostalgic",
+      "longing"
+    ],
+    "antonyms": [
+      "unemotional",
+      "indifferent"
+    ],
+    "type": "adjective",
+    "example": "As she looked at the old photographs, she felt wistful.",
+    "pronunciation": "/ˈwɪstfəl/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Xenophile",
+    "definition": "A person who is attracted to foreign cultures or people",
+    "synonyms": [
+      "cosmopolitan (adj.)",
+      "multiculturalist"
+    ],
+    "antonyms": [
+      "xenophobe",
+      "nationalist"
+    ],
+    "type": "noun",
+    "example": "As a xenophile, she loved traveling and experiencing new cultures.",
+    "pronunciation": "/ˈzɛnəfaɪl/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Xenophobia",
+    "definition": "Fear or hatred of foreigners or strangers",
+    "synonyms": [
+      "prejudice",
+      "bigotry"
+    ],
+    "antonyms": [
+      "tolerance",
+      "xenophilia"
+    ],
+    "type": "noun",
+    "example": "The rise of xenophobia in the country was concerning.",
+    "pronunciation": "/ˌzɛnəˈfoʊbiə/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Yearn",
+    "definition": "To have a strong desire or longing",
+    "synonyms": [
+      "long",
+      "desire"
+    ],
+    "antonyms": [
+      "dislike",
+      "loathe"
+    ],
+    "type": "verb",
+    "example": "He yearned for adventure and travel.",
+    "pronunciation": "/jɜːrn/",
+    "correct": 1,
+    "wrong": 0
+  },
+  {
+    "word": "Zeal",
+    "definition": "Enthusiasm",
+    "synonyms": [
+      "enthusiasm",
+      "passion"
+    ],
+    "antonyms": [
+      "apathy",
+      "indifference"
+    ],
+    "type": "noun",
+    "example": "She tackled her new project with great zeal.",
+    "pronunciation": "/ziːl/",
+    "correct": 0,
+    "wrong": 0
+  },
+  {
+    "word": "Zealous",
+    "definition": "Filled with zeal; fervent",
+    "synonyms": [
+      "fervent",
+      "ardent"
+    ],
+    "antonyms": [
+      "apathetic",
+      "indifferent"
+    ],
+    "type": "adjective",
+    "example": "The volunteers were zealous in their efforts to help.",
+    "pronunciation": "/ˈzɛləs/",
+    "correct": 1,
+    "wrong": 0
+  }
+]

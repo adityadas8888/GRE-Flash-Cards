@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>GRE Flashcards</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="container">
+    <h1>GRE Flashcards</h1>
+
+    <!-- Bottom banner for “Right” or “Wrong” -->
+    <div id="result-banner" class="result-banner"></div>
+
+    <div id="card-container" class="card-container">
+      <!-- Cards injected by main.js -->
+    </div>
+  </div>
+
+  <script src="{{ url_for('static', filename='main.js') }}"></script>
+</body>
+</html>
